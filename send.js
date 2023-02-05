@@ -18,5 +18,5 @@ export  function sending(arr){
     setTimeout(()=>{
         console.log("circle next")
         return getAllPretindent()
-    },10800000) // how many seconds to update the file 10800 * 1000 = every 3H
+    },10800000) //  how many seconds to update the file 10800 * 1000 = every 3H
 }
