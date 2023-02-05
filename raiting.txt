@@ -1,4 +1,4 @@
 
- taraxa1  21	0x74d6e5ccaf6f2546c2d7a3cd2e5e28c8fa05c71f	16
- taraxa2  65	0xf69c28f2712ed752b0902a31ec9aff1ecd94f80d	12
+ taraxa1  22	0x74d6e5ccaf6f2546c2d7a3cd2e5e28c8fa05c71f	16
+ taraxa2  66	0xf69c28f2712ed752b0902a31ec9aff1ecd94f80d	13
  taraxa3  UNWORKED BLOCKS

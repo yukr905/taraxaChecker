@@ -1,5 +1,5 @@
 import fs from "fs"
-import { start } from "./index.js"
+import { getAllPretindent } from "./checker.js"
 
 export  function sending(arr){
     let txt =""
@@ -16,6 +16,7 @@ export  function sending(arr){
     }
     fs.writeFileSync("raiting.txt", txt)
     setTimeout(()=>{
-        return start
+        console.log("circle next")
+        return getAllPretindent()
     },10800000) // how many seconds to update the file 10800 * 1000 = every 3H
 }
