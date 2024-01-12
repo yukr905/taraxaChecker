@@ -5,7 +5,7 @@ This script is designed to track block mining on the Taraxa testnet - it makes i
 **You need to install Node.js on your server!!!**
 **Link for install to Ubuntu [node.js](https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-20-04-ru)**
 
-Unforgettable to prescribe
+Do not forget to write command in the terminal
 ` npm i  `
 
 All you need to do is add all your addresses to the db.json file and upload code to server. For example:
