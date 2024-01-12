@@ -1,7 +1,36 @@
 {
     "address":[
-    ["taraxa1","0x74d6e5ccaf6f2546c2d7a3cd2e5e28c8fa05c71f"],
-    ["taraxa2","0xf69c28f2712ed752b0902a31ec9aff1ecd94f80d"],
-    ["taraxa3","0x11111111111111111111111111111"]
+    ["taraxa36","0xde8009591543bb4c8efd83a45ea0fcac3cc67298"],
+    ["taraxa37","0x063c87f36790c73a9ac511f1e310e47f7f6a91e7"],
+    ["taraxa39","0x1b007fe27f6258677d4e78614c74d6fd6ea147b7"],
+    ["taraxa45-35-2","0xa402f237da89e86e58fa9f742c16536b80b95beb"],
+    ["taraxa48-38-2","0xae1948c309bb20d485d15603a0a712c22c0b089a"],
+    ["taraxa50-30-1","0x3a485e3be9fa3810828243a6f287caf663601f07"],
+    ["taraxa52-32-1","0x6354812bafb045f2696402c8461f62f30a33c316"],
+    ["taraxa53-33-1","0xa1342af3d0de8e33b3cfa49cf8c7758c41771273"],
+    ["taraxa54-34-1","0x6426e485f8792cc82f5407177537428665d7f51a"],
+    ["taraxa58-38-1","0x1d268431463471e14fcd370d67dbb0ceb9033613"],
+    ["taraxa59-39-1","0x05d28b53cc1dc3b9f775d03f8172d12325ab49ac"],
+    ["taraxa61-51-2","0x5c97652eee1301d13a13925da53971d102520c82"],
+    ["taraxa65-55-2","0x0864769ad8ff7610058f393fe2e093ab1e3d92ff"],
+    ["taraxa66-56-2","0x7eeb0a62f0c4bbc16202227b813115994b2be0ad"],
+    ["taraxa67-57-2","0xe9ead914b7961856bd3b49fc0f8de6bee7e9e5c7"],
+    ["taraxa35","0x3ef26e91c3757bd7a2936cf7a1e59f48b1fe244c"],
+    ["taraxa38","0x7defa2ca325846a4e865c84875ab1922670dffa1"],
+    ["taraxa46","0x067da1edfc10c4aa5a1f21ecbd835379409215e4"],
+    ["taraxa47","0x70ca5ff4e3569ce0d74629873ac5b1143d9fe4b8"],
+    ["taraxa49","0x2f0bfb840a180183c37f77fca64ac4a5831e3d9f"],
+    ["taraxa51","0x2feb2c89a4aa3fb203ffe5822a57f7bf75b7bc82"],
+    ["taraxa55","0xfe64d9a857054868e49816bacf9076549b9ec032"],
+    ["taraxa56","0x14c21e9c0e20cf2f53fac13bbaa7b481c9cfc114"],
+    ["taraxa57","0xe9aefc6be75858ee48a3ba5196ac8b09e8fd56ec"],
+    ["taraxa60","0xbaf8017ea2ba876b96bc044817e4c3e4e1fe4977"],
+    ["taraxa62","0x2d83901c28eb33207fb6354d410ce4b14e8e53bb"],
+    ["taraxa63","0x4172f7c78e7c8716abd67282c6660fbd273211f1"],
+    ["taraxa64","0x79f67efa6fb0d0daf73eb7158909bcb62c9dfcc6"],
+    ["taraxa68","0x78afe4bdf6e7237459ac00475b910b80381eb951"],
+    ["taraxa69","0xcb8e8dfc1e3153aec84606682aecd1e3ed1a5551"]
+
+    
     ]
 }
